@@ -45,7 +45,7 @@ Power BI was used to build an executive dashboard showing:
 - Actionable insights with charts and KPIs
 
 📷 **Dashboard Screenshot:**
-![Churn Dashboard](E-commerce Customer Churn Dashboard.png)
+![Churn Dashboard](E-commerce%20Customer%20Churn%20Dashboard.png)
 
 ---
 
